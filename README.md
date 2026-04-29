@@ -1,8 +1,13 @@
 MUHAMMET ENES BIÇAK - 2220357005
 ELE432 - ADVANCED DIGITAL DESIGN
 HOMEWORK 2 - MULTICYCLE RISCV PROCESSOR CONTROLLER
-<img width="1909" height="575" alt="image" src="https://github.com/user-attachments/assets/83431967-2309-492a-a1af-2ff1e52bfdb9" />
-<img width="1909" height="578" alt="image" src="https://github.com/user-attachments/assets/6f3286ea-d67e-425b-81ae-5936cef53055" />
+
+SIMULATION WAVEFORMS:
+From 0 to 220ns :
+<img width="1475" height="431" alt="image" src="https://github.com/user-attachments/assets/c8f1acfe-1065-4cb7-bed8-4d64b67228f1" />
+220 to 420 ns :
+<img width="1475" height="886" alt="image" src="https://github.com/user-attachments/assets/f2e4ad63-747f-4add-98de-a9f599a718a9" />
+SIMULATION SUCCEEDED :
 <img width="954" height="152" alt="image" src="https://github.com/user-attachments/assets/0fa1b588-1cd2-4323-b693-8a741b160ad4" />
 
 2 IMPORTANT DEBUG STEPS :
