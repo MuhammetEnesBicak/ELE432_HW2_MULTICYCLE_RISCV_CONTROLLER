@@ -6,7 +6,6 @@ SIMULATION WAVEFORMS:
 From 0 to 220ns :
 <img width="1475" height="431" alt="image" src="https://github.com/user-attachments/assets/c8f1acfe-1065-4cb7-bed8-4d64b67228f1" />
 220 to 420 ns :
-<img width="1475" height="886" alt="image" src="https://github.com/user-attachments/assets/f2e4ad63-747f-4add-98de-a9f599a718a9" />
 SIMULATION SUCCEEDED :
 <img width="954" height="152" alt="image" src="https://github.com/user-attachments/assets/0fa1b588-1cd2-4323-b693-8a741b160ad4" />
 
