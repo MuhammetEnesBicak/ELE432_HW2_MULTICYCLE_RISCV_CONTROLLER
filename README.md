@@ -3,17 +3,12 @@ ELE432 - ADVANCED DIGITAL DESIGN
 HOMEWORK 2 - MULTICYCLE RISCV PROCESSOR CONTROLLER
 
 SIMULATION WAVEFORMS:
-From 0 to 220ns :
-<img width="1475" height="431" alt="image" src="https://github.com/user-attachments/assets/c8f1acfe-1065-4cb7-bed8-4d64b67228f1" />
-220 to 420 ns :
-<img width="1852" height="548" alt="hw2graph2" src="https://github.com/user-attachments/assets/539504d5-fbc5-406e-bf21-2158566fd5c4" />
-
-
-
-
-
-
-
+From 0 to 160ns :
+<img width="1871" height="523" alt="image" src="https://github.com/user-attachments/assets/006deaa3-e0b5-4a2c-9b0c-b9337cd51794" />
+160 to 320 ns :
+<img width="1872" height="503" alt="image" src="https://github.com/user-attachments/assets/1d02d314-7c94-48b8-a75a-59d4e136f43f" />
+320 to 420 ns :
+<img width="1869" height="523" alt="image" src="https://github.com/user-attachments/assets/ca6f189a-3c2f-4c0b-926a-1a690b142807" />
 
 
 
