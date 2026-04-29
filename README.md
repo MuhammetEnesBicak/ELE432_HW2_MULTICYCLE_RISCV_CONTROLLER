@@ -9,7 +9,7 @@ HOMEWORK 2 - MULTICYCLE RISCV PROCESSOR CONTROLLER
 
 1)
 I discovered a discrepancy between the assignment document and the provided controller.tv file. Table 1 in the assignment specified Add = 000 and Sub = 001. However, the test vector file expected the standard Harris & Harris textbook opcodes (Add = 010, Sub = 110, etc.).
-Resolution: I updated the case statements inside the aludec (ALU Decoder) module to output the ALUControl signals expected by the test vector file rather than the ones in the document, which cleared the logical errors.
+Resolution: I updated the testvector file accordingly.
 
 2)
 The assignment explicitly instructed to set "don't care" outputs to 0 for deterministic behavior. The controller module correctly implemented this. However, the controller.tv file contained X for these don't care states. Since the provided testbench used the strict inequality operator (if (actual !== expected)), it flagged a mismatch every time the controller outputted a 0 instead of an X, causing false positive errors.
